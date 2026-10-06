@@ -1,0 +1,12 @@
+{
+  "name": "klasai",
+  "version": "0.2.0",
+  "private": true,
+  "description": "KlasAI: een AI-omgeving voor leerlingen met lokale modellen via Ollama",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
